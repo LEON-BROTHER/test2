@@ -1,0 +1,58 @@
+mods/data/challengedd-but-something/challengedd-but-something-hard.json
+mods/data/challengedd-but-something/challengedd-but-something.json
+mods/data/challengedd-but-something/events.json
+mods/data/challengedd-but-something/mod.txt
+mods/Challenge Edd/characters/bf.json
+mods/Challenge Edd/characters/edd.json
+mods/Challenge Edd/characters/gf.json
+mods/Challenge Edd/stages/eddhouse-but.json
+mods/Challenge Edd/stages/eddhouse-but.lua
+mods/Challenge Edd/images/characters/Edd.png
+mods/Challenge Edd/images/characters/Edd.xml
+mods/Challenge Edd/images/characters/Edd.txt
+mods/Challenge Edd/custom_notetypes/Opponent Sing.lua
+mods/Challenge Edd/custom_notetypes/Special Sing.lua
+mods/Challenge Edd/custom_events/Camera Follow Pos.lua
+mods/Challenge Edd/custom_events/Play Animation.lua
+mods/Challenge Edd/custom_events/Change Character.lua
+mods/Challenge Edd/images/DoorOpen.png
+mods/Challenge Edd/images/Matt.png
+mods/Challenge Edd/images/Tom.png
+mods/Challenge Edd/images/Eduardo.png
+mods/Challenge Edd/images/EduardoCUTSCENE.png
+mods/Challenge Edd/images/Mark.png
+mods/Challenge Edd/images/John.png
+mods/Challenge Edd/images/character/EddSide.png
+mods/Challenge Edd/images/character/DEdd.png
+mods/Challenge Edd/images/'SkyBox.png
+mods/Challenge Edd/images/'Clouds.png
+mods/Challenge Edd/images/'HousesAndFloor.png
+mods/Challenge Edd/images/'DoorOpen.png
+mods/Challenge Edd/images/'DoorOpen.xml
+mods/Challenge Edd/images/'DoorOpen.txt
+mods/Challenge Edd/images/'SecondParalax.png
+mods/Challenge Edd/images/'Matt.png
+mods/Challenge Edd/images/'Matt.xml
+mods/Challenge Edd/images/'Matt.txt
+mods/Challenge Edd/images/'Tom.png
+mods/Challenge Edd/images/'Tom.xml
+mods/Challenge Edd/images/'Tom.txt
+mods/Challenge Edd/images/'John.png
+mods/Challenge Edd/images/'John.xml
+mods/Challenge Edd/images/'John.txt
+mods/Challenge Edd/images/'Mark.png
+mods/Challenge Edd/images/'Mark.xml
+mods/Challenge Edd/images/'Mark.txt
+mods/Challenge Edd/images/'Car.png
+mods/Challenge Edd/images/'Plane.png
+mods/Challenge Edd/images/'Fence.png
+mods/Challenge Edd/images/'EduardoCUTSCENE.png
+mods/Challenge Edd/images/'EduardoCUTSCENE.xml
+mods/Challenge Edd/images/'EduardoCUTSCENE.txt
+mods/Challenge Edd/images/'Eduardo.png
+mods/Challenge Edd/images/'Eduardo.xml
+mods/Challenge Edd/images/'Eduardo.txt
+mods/songs/challengedd-but-something/Voices.ogg
+mods/songs/challengedd-but-something/voices.ogg
+mods/songs/challengedd-but-something/Inst.ogg
+mods/songs/challengedd-but-something/inst.ogg
