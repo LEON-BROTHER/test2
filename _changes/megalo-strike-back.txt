@@ -3,18 +3,12 @@ mods/data/megalo-strike-back/megalo-strike-back-easy.json
 mods/data/megalo-strike-back/megalo-strike-back-hard.json
 mods/data/megalo-strike-back/megalo-strike-back.json
 mods/data/megalo-strike-back/mod.txt
-mods/chara/characters/bf.json
 mods/chara/characters/chara.json
-mods/chara/characters/null.json
 mods/chara/stages/charaut.json
 mods/chara/stages/charaut.lua
 mods/chara/images/characters/chara.png
 mods/chara/images/characters/chara.xml
-mods/chara/images/characters/chara.txt
-mods/chara/custom_events/Camera Follow Pos.lua
-mods/chara/custom_events/Flip X Character.lua
 mods/chara/custom_events/Set Cam Zoom.lua
-mods/chara/custom_events/Play Animation.lua
 mods/chara/images/utchara/chara-bg.png
 mods/songs/megalo-strike-back/Voices.ogg
 mods/songs/megalo-strike-back/voices.ogg

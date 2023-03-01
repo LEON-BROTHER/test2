@@ -2,39 +2,29 @@ mods/data/candy/candy-easy.json
 mods/data/candy/candy-hard.json
 mods/data/candy/candy.json
 mods/data/candy/events.json
-mods/data/candy/mod.txt
-mods/heathers/characters/veronica.json
-mods/heathers/characters/heatherc.json
-mods/heathers/characters/heatherm.json
-mods/heathers/stages/hallway.json
-mods/heathers/stages/hallway.lua
-mods/heathers/images/characters/veronica.png
-mods/heathers/images/characters/veronica.xml
-mods/heathers/images/characters/veronica.txt
-mods/heathers/images/characters/heathers assets.png
-mods/heathers/images/characters/heathers assets.xml
-mods/heathers/images/characters/heathers assets.txt
-mods/heathers/images/characters/heatherm.png
-mods/heathers/images/characters/heatherm.xml
-mods/heathers/images/characters/heatherm.txt
-mods/heathers/custom_notetypes/Chorus.lua
-mods/heathers/custom_notetypes/Backers.lua
-mods/heathers/custom_notetypes/Alt Animation.lua
-mods/heathers/custom_events/karaokelyrics.lua
-mods/heathers/custom_events/addCharacter.lua
-mods/heathers/custom_events/Camera Follow Pos.lua
-mods/heathers/custom_events/Set Cam Zoom.lua
-mods/heathers/custom_events/Alt Idle Animation.lua
-mods/heathers/custom_events/Add Camera Zoom.lua
-mods/heathers/custom_events/Cam Boom Speed.lua
-mods/heathers/images/BG.png
-mods/heathers/images/reflection.png
-mods/heathers/images/shadow.png
-mods/heathers/images/spotlight.png
-mods/heathers/images/spotlight2.png
-mods/heathers/fonts/cheri.ttf
-mods/heathers/custom_events/Screen Shake.lua
-mods/heathers/fonts/fon
+mods/characters/veronica.json
+mods/characters/heatherc.json
+mods/characters/heatherm.json
+mods/stages/hallway.json
+mods/stages/hallway.lua
+mods/images/characters/veronica.png
+mods/images/characters/veronica.xml
+mods/images/characters/heathers assets.png
+mods/images/characters/heathers assets.xml
+mods/images/characters/heatherm.png
+mods/images/characters/heatherm.xml
+mods/custom_notetypes/Chorus.lua
+mods/custom_notetypes/Backers.lua
+mods/custom_events/karaokelyrics.lua
+mods/custom_events/addCharacter.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/images/BG.png
+mods/images/reflection.png
+mods/images/shadow.png
+mods/images/spotlight.png
+mods/images/spotlight2.png
+mods/fonts/cheri.ttf
 mods/songs/candy/Voices.ogg
 mods/songs/candy/voices.ogg
 mods/songs/candy/Inst.ogg

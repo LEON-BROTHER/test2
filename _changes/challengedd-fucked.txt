@@ -1,64 +1,59 @@
 mods/data/challengedd-fucked/challengedd-fucked.json
 mods/data/challengedd-fucked/events.json
-mods/data/challengedd-fucked/mod.txt
+mods/characters/edd-tordcutsene.json
+mods/images/characters/EddTordCutscene.png
+mods/images/characters/EddTordCutscene.xml
+mods/characters/bf-tordcutscene.json
+mods/images/characters/BFTordCutscene.png
+mods/images/characters/BFTordCutscene.xml
+mods/characters/tord.json
+mods/images/characters/Tord.png
+mods/images/characters/Tord.xml
+mods/characters/slide-edd.json
+mods/images/characters/SlideEdd.png
+mods/images/characters/SlideEdd.xml
+mods/characters/slide-bf.json
+mods/images/characters/SlideBF.png
+mods/images/characters/SlideBF.xml
+mods/characters/tord2.json
+mods/images/characters/Tord2.png
+mods/images/characters/Tord2.xml
 mods/data/challengedd-fucked/script.lua
-mods/Challenge Edd/characters/bf.json
-mods/Challenge Edd/characters/edd.json
-mods/Challenge Edd/characters/gf.json
-mods/Challenge Edd/stages/eddhouse-tord.json
-mods/Challenge Edd/stages/eddhouse-tord.lua
-mods/Challenge Edd/images/characters/Edd.png
-mods/Challenge Edd/images/characters/Edd.xml
-mods/Challenge Edd/images/characters/Edd.txt
-mods/Challenge Edd/custom_notetypes/Rocket Note.lua
-mods/Challenge Edd/custom_notetypes/Special Sing.lua
-mods/Challenge Edd/custom_notetypes/Opponent Sing.lua
-mods/Challenge Edd/custom_notetypes/Alt Animation.lua
-mods/Challenge Edd/custom_events/Play Animation.lua
-mods/Challenge Edd/custom_events/Screen Shake.lua
-mods/Challenge Edd/custom_events/Camera Follow Pos.lua
-mods/Challenge Edd/custom_events/Change Character.lua
-mods/Challenge Edd/images/DoorOpen.png
-mods/Challenge Edd/images/Matt.png
-mods/Challenge Edd/images/Fallin.png
-mods/Challenge Edd/images/character/Tord.png
-mods/Challenge Edd/images/character/Tord2.png
-mods/Challenge Edd/images/character/SlideEdd.png
-mods/Challenge Edd/images/character/SlideBF.png
-mods/Challenge Edd/images/character/EddTordCutscene.png
-mods/Challenge Edd/images/character/BFTordCutscene.png
-mods/Challenge Edd/images/character/DEdd.png
-mods/Challenge Edd/images/notes/Explosion.png
-mods/Challenge Edd/images/'SkyBox.png
-mods/Challenge Edd/images/'Clouds.png
-mods/Challenge Edd/images/'HousesAndFloor.png
-mods/Challenge Edd/images/'DoorOpen.png
-mods/Challenge Edd/images/'DoorOpen.xml
-mods/Challenge Edd/images/'DoorOpen.txt
-mods/Challenge Edd/images/'SecondParalax.png
-mods/Challenge Edd/images/'Matt.png
-mods/Challenge Edd/images/'Matt.xml
-mods/Challenge Edd/images/'Matt.txt
-mods/Challenge Edd/images/'TomEND.png
-mods/Challenge Edd/images/'TomEND.xml
-mods/Challenge Edd/images/'TomEND.txt
-mods/Challenge Edd/images/'Car.png
-mods/Challenge Edd/images/'Plane.png
-mods/Challenge Edd/images/'TordHelicopter.png
-mods/Challenge Edd/images/'TordHelicopter.xml
-mods/Challenge Edd/images/'TordHelicopter.txt
-mods/Challenge Edd/images/'TordFallin.png
-mods/Challenge Edd/images/'TordFallin.xml
-mods/Challenge Edd/images/'TordFallin.txt
-mods/Challenge Edd/images/'notes/Explosion.png
-mods/Challenge Edd/images/'notes/Explosion.xml
-mods/Challenge Edd/images/'notes/Explosion.txt
-mods/Challenge Edd/images/'TordBot.png
-mods/Challenge Edd/images/'TordBot.xml
-mods/Challenge Edd/images/'TordBot.txt
-mods/Challenge Edd/images/'Fence.png
-mods/Challenge Edd/images/'TordBG.png
-mods/Challenge Edd/images/'CockPitUpClose.png
+mods/characters/edd.json
+mods/stages/eddhouse-tord.json
+mods/stages/eddhouse-tord.lua
+mods/images/characters/Edd.png
+mods/images/characters/Edd.xml
+mods/custom_notetypes/Rocket Note.lua
+mods/custom_notetypes/Special Sing.lua
+mods/custom_notetypes/Opponent Sing.lua
+mods/images/DoorOpen.png
+mods/images/Matt.png
+mods/images/notes/Explosion.png
+mods/images/SkyBox.png
+mods/images/Clouds.png
+mods/images/HousesAndFloor.png
+mods/images/DoorOpen.xml
+mods/images/SecondParalax.png
+mods/images/Matt.xml
+mods/images/TomEND.png
+mods/images/TomEND.xml
+mods/images/Car.png
+mods/images/Plane.png
+mods/images/TordHelicopter.png
+mods/images/TordHelicopter.xml
+mods/images/TordFallin.png
+mods/images/TordFallin.xml
+mods/images/notes/Explosion.xml
+mods/images/TordBot.png
+mods/images/TordBot.xml
+mods/images/Fence.png
+mods/images/TordBG.png
+mods/images/CockPitUpClose.png
+mods/images/notes/Rocket Note.png
+mods/images/notes/Rocket Note.xml
+mods/images/notes/DS Rocket Note.png
+mods/images/notes/DS Rocket Note.xml
 mods/songs/challengedd-fucked/Voices.ogg
 mods/songs/challengedd-fucked/voices.ogg
 mods/songs/challengedd-fucked/Inst.ogg

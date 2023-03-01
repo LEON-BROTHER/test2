@@ -1,0 +1,11 @@
+mods/data/challengedd-but-something/challengedd-but-something-hard.json
+mods/data/challengedd-but-something/challengedd-but-something.json
+mods/data/challengedd-but-something/events.json
+mods/stages/eddhouse-but.json
+mods/stages/eddhouse-but.lua
+mods/custom_notetypes/Opponent Sing.lua
+mods/custom_notetypes/Special Sing.lua
+mods/songs/challengedd-but-something/Voices.ogg
+mods/songs/challengedd-but-something/voices.ogg
+mods/songs/challengedd-but-something/Inst.ogg
+mods/songs/challengedd-but-something/inst.ogg

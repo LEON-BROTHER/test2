@@ -1,0 +1,17 @@
+mods/data/candy/candy-easy.json
+mods/data/candy/candy-hard.json
+mods/data/candy/candy.json
+mods/data/candy/events.json
+mods/stages/hallway.json
+mods/stages/hallway.lua
+mods/custom_notetypes/Chorus.lua
+mods/custom_notetypes/Backers.lua
+mods/custom_events/karaokelyrics.lua
+mods/custom_events/addCharacter.lua
+mods/custom_events/Set Cam Zoom.lua
+mods/custom_events/Cam Boom Speed.lua
+mods/fonts/cheri.ttf
+mods/songs/candy/Voices.ogg
+mods/songs/candy/voices.ogg
+mods/songs/candy/Inst.ogg
+mods/songs/candy/inst.ogg
